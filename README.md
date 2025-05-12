@@ -1,2 +1,2 @@
 # BrightCoffee
-Case Study Project
+Case Study Projectt
